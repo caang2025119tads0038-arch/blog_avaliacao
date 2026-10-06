@@ -1,0 +1,1 @@
+Blog feito usando o framework Python Django para avaliação do Professor Warlles Machado.
